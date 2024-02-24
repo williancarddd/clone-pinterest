@@ -1,0 +1,3 @@
+interface MenuProps {
+  onClose: () => void;
+}

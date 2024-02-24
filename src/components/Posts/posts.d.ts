@@ -1,0 +1,3 @@
+interface PostsProps {
+  posts: PostProps[]
+}
